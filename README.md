@@ -6,3 +6,5 @@
  sure about directions on your device. I suggest you to take
  a quick look at main file.
 
+note:
+ mp3 files should be next to main file to perform currectly.
